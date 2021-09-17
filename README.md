@@ -1,6 +1,6 @@
 # 2d-extras
 
-**Repository of old version of 2D Tilemap Extras for Unity 2D versions: 2019.4 and 2020.3 **
+** Repository of old version of 2D Tilemap Extras for Unity 2D versions: 2019.4 and 2020.3 **
 
 2d-extras is a repository containing helpful reusable scripts which you can use to make your games, with a slant towards 2D. Feel free to customise the behavior of the scripts to create new tools for your use case! 
 
